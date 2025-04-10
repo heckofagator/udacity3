@@ -13,4 +13,5 @@ flask
 joblib
 pylint
 pytest
+scikit-learn
 #Werkzeug
